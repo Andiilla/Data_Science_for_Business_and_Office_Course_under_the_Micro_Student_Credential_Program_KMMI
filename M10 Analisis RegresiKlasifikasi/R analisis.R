@@ -1,0 +1,6 @@
+library(tseries)
+library(forecast)
+library(lmtest)
+library(normtest)
+library(nortest)
+data <- read.csv("")
